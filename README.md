@@ -97,6 +97,7 @@ I believe in learning by doing, combining structured coursework with hands-on la
 
 <br>
 
+<!--
 ## GitHub Stats
  
 <div align="center">
@@ -113,6 +114,7 @@ I believe in learning by doing, combining structured coursework with hands-on la
 </div>
  
 <br>
+-->
 
 ## Learning Journey
 
